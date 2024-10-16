@@ -24,3 +24,24 @@ This project is a Python-based automation script that uses Selenium to interact 
  ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
+````
+## Install required Python packages: 
+pip install selenium
+
+## Download ChromeDriver:
+
+Download the appropriate version of ChromeDriver for your system from here.
+Place the ChromeDriver executable in your project directory or add it to your system PATH.
+
+## Usage
+Ensure the ChromeDriver is in the correct path.
+
+Run the script: python script_name.py
+The script will open Google, perform the search, and interact with the first matching result.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contributing
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
+
