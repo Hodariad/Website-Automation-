@@ -26,7 +26,11 @@ This project is a Python-based automation script that uses Selenium to interact 
 
 ````
 ## Install required Python packages: 
-pip install selenium
+ ```bash
+  pip install selenium
+
+````
+
 
 ## Download ChromeDriver:
 
